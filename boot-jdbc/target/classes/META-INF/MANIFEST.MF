@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: boot-jdbc
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pankaj.Yadav
+Implementation-Vendor-Id: com.javainuse
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/boot-jdbc/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
